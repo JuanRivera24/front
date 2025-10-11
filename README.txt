@@ -1,10 +1,10 @@
 ======================================================================
-             KINGDOM BARBER - WEB CLIENTE (PI_WEB2.0)
+             KINGDOM BARBER - WEB CLIENTE (FRONT)
 ======================================================================
 
 📘 **Documentación:** Web 2 - Kingdom Barber  
 📆 **Fecha:** Octubre, 2025  
-👥 **Autores:** Juan Rivera, Andrés Vallejo, Alejandro Urrego  
+👥 **Autores:** Juan Rivera, Oscar,   
 
 ======================================================================
               🧭 MANUAL DE USUARIO Y GUÍA DE EJECUCIÓN
