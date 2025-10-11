@@ -2,7 +2,7 @@
              KINGDOM BARBER - WEB CLIENTE (FRONT)
 ======================================================================
 
-📘 **Documentación:** Web 2 - Kingdom Barber  
+📘 **Documentación:** Front - Kingdom Barber  
 📆 **Fecha:** Octubre, 2025  
 👥 **Autores:** Juan Rivera, Oscar,   
 
