@@ -4,7 +4,7 @@
 
 📘 Documentación: Front - Kingdom Barber  
 📆 Fecha: Octubre, 2025  
-👥 Autores: Juan Manuel, Oscar, Juan Esteban
+👥 Autores: Juan Manuel, Oscar, Juan Fernando
 
 🏫 Institución: Instituto Tecnológico Metropolitano (ITM)
 📘 Asignatura: Estructura de Datos
@@ -171,7 +171,7 @@ El front-end actualiza su estado y muestra la nueva cita en pantalla.
 
 👤 Juan Manuel  
 👤 Oscar 
-👤 Juan Esteban  
+👤 Juan Fernando
 
 Repositorio oficial:  
 🔗 https://github.com/JuanRivera24/front.git  
