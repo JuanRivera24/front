@@ -8,8 +8,8 @@ interface EndpointStatus {
   message: string;
 }
 
-const API_URL = "http://localhost:8080";
-const endpoints = ["clientes", "historial/citas", "barberos", "sedes", "servicios", "citas-activas", "galeria"];
+const API_URL = process.env.NEXT_PUBLIC_API_URL;
+const endpoints = ["barberos", "sedes", "servicios", "citas-activas", "galeria"];
 
 export default function ApiStatusDiagnostic() {
   const [results, setResults] = useState<EndpointStatus[]>([]);
